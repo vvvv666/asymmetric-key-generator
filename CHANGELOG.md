@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## v0.5.3
+- Update dependencies
+
+## v0.5.2
+- Update dependencies
+
+## v0.5.1
+- Update dependencies
+
 ## v0.5.0
 - Default for `ed25519` keys
 - Change app name
